@@ -5,6 +5,7 @@
 |Blog|https://blog.hikit.io|
 |Online Judget|https://oj.hikit.io|
 |Go Lib|https://go.hikit.io|
+|Rust Lib|https://rs.hikit.io|
 
 
 <!--
