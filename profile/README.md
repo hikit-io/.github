@@ -1,4 +1,3 @@
-![icon](https://user-images.githubusercontent.com/42961884/207948372-fa2fe241-25b7-4d6f-bfb7-9555e1ad5e5a.png)
 
 |Name|Site|
 |---|---|
