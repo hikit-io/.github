@@ -6,7 +6,9 @@
 |Online Judget|https://oj.hikit.io|
 |Go Lib|https://go.hikit.io|
 |Rust Lib|https://rs.hikit.io|
-|HiPush|https://push.hikit.io|
+|Push|https://push.hikit.io|
+|Auth|https://auth.hikit.io|
+|Email|https://email.hikit.io|
 
 
 <!--
