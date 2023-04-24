@@ -9,7 +9,7 @@
 |Push|https://push.hikit.io|
 |Auth|https://auth.hikit.io|
 |Email|https://email.hikit.io|
-|Gmae|https://game.hikit.io|
+|Game|https://game.hikit.io|
 
 
 <!--
