@@ -10,7 +10,7 @@
 |Auth|https://auth.hikit.io|
 |Email|https://email.hikit.io|
 |Game|https://game.hikit.io|
-
+|ChatGPT|https://gpt.hikit.io|
 
 <!--
 
